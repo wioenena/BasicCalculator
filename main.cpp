@@ -7,8 +7,6 @@ using namespace std;
 int main() {
 
 
-    auto result = 0;
-
     while(true) {
         string number1,number2;
         char op;

@@ -6,11 +6,10 @@ using namespace std;
 
 int main() {
 
-    bool running = true;
 
     auto result = 0;
 
-    while(running) {
+    while(true) {
         string number1,number2;
         char op;
 

@@ -8,7 +8,9 @@ int main() {
 
 
     while(true) {
+
         string number1,number2;
+        
         char op;
 
         cout << "Rakamınızı girin.\nİptal etmek için q yazın." << endl;
